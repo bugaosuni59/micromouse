@@ -1,0 +1,15 @@
+"F:\dns\IAR\arm\bin\armproc.dll" 
+
+"F:\dns\IAR\arm\bin\armstlink.dll" 
+
+"F:\dns\测试程序\前进三格转体后退两格\909\Debug\Exe\Maze.out" 
+
+--plugin "F:\dns\IAR\arm\bin\armbat.dll" 
+
+--device_macro "F:\dns\IAR\arm\config\debugger\ST\STM32F1xx.dmac" 
+
+--flash_loader "F:\dns\IAR\arm\config\flashloader\ST\FlashSTM32F100xB.board" 
+
+
+
+

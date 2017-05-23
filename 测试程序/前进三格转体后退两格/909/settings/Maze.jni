@@ -1,0 +1,2 @@
+device=STM32F10xxE ; device name
+core=Cortex-M3 ; core name
